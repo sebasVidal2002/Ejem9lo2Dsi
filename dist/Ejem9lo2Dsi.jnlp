@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Ejem9lo2Dsi.jnlp">
+  <information>
+    <title>Ejem9lo2Dsi</title>
+    <vendor>Sebastian</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Ejem9lo2Dsi.jar" size="3161" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Ejem9lo2Dsi" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="vista.Ejem9lo2Dsi"  name="Ejem9lo2Dsi" />
+  <update check="always"/>
+</jnlp>
